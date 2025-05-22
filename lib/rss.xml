@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[New-Vk-Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>New-Vk-Notes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 22 May 2025 08:28:56 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 22 May 2025 08:28:49 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Agent 定义]]></title><description><![CDATA[ 
+ <br>AI 领域，Agent 本身可以有多种定义，我们更具体的定义为以下几种：<br>
+<br>代理系统 (Agentic Systems): 涵盖所有使用 LLM 和工具完成任务的系统。
+<br>工作流 (Workflows): LLM 和工具通过预定义的代码路径进行编排。
+<br>代理 (Agents): LLM 动态指导自身流程和工具使用，保持对任务完成方式的控制。
+]]></description><link>10-projects/01-ai/agent-定义.html</link><guid isPermaLink="false">10 Projects/01 AI/Agent 定义.md</guid><pubDate>Thu, 22 May 2025 05:02:57 GMT</pubDate></item><item><title><![CDATA[Human In The Loop (HITL)]]></title><description><![CDATA[ 
+ <br><br><br>允许 Agent 执行过程中请求人类允许或批准，从而使得 <a data-href="AI 系统" href="AI 系统" class="internal-link" target="_self" rel="noopener nofollow">AI 系统</a> 更加可靠和可信<br><br>在构建复杂决策系统或需要人工决策和干预的 AI 应用时，这种模式是非常有效的。<br><img alt="image.png" src="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim" referrerpolicy="no-referrer">]]></description><link>10-projects/01-ai/human-in-the-loop-(hitl).html</link><guid isPermaLink="false">10 Projects/01 AI/Human In The Loop (HITL).md</guid><pubDate>Wed, 21 May 2025 09:11:22 GMT</pubDate><enclosure url="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[排期]]></title><description><![CDATA[ 
+ <br><br><br><br>目标：完成流程列表、任务列表的基础交互逻辑<br><br><br><br>目标：完成画布渲染、交互逻辑及协议转换基础<br><br><br><br>目标：完成画布功能优化与全流程测试<br><br><br><br>
+<br>画布开发优先级：因画布模块需至少 2 周，需确保资源集中投入，避免与其他模块冲突。
+<br>协议转换依赖：画布协议转换需在画布核心功能完成后进行，确保数据一致性。
+<br>并行开发：流程列表和任务列表可并行开发，但需确保接口一致性。
+<br>测试阶段：建议在画布开发完成后集中测试，避免重复劳动。
+<br><br><br><br><br>此排期可根据实际进度动态调整，建议每周进行进度同步和资源分配优化。]]></description><link>10-projects/数字化流程/排期.html</link><guid isPermaLink="false">10 Projects/数字化流程/排期.md</guid><pubDate>Mon, 19 May 2025 07:23:37 GMT</pubDate></item><item><title><![CDATA[Vue.js Map of Content]]></title><description><![CDATA[ 
+ <br><br>这是关于 Vue.js 的核心知识地图。<br><br>
+<br><a data-href="Vue Reactivity System" href="20-areas/vue-reactivity-system.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/concept #tech/vue/reactivity #status/evergreen #concept/state-management" data-link-path="20 Areas/Vue Reactivity System.md" style="--data-link-tags: #type/concept #tech/vue/reactivity #status/evergreen #concept/state-management; --data-link-path: 20 Areas/Vue Reactivity System.md;">Vue Reactivity System</a>
+<br><a data-href="Vue Virtual DOM" href="Vue Virtual DOM" class="internal-link" target="_self" rel="noopener nofollow">Vue Virtual DOM</a>
+<br><a data-href="Vue Component Lifecycle" href="Vue Component Lifecycle" class="internal-link" target="_self" rel="noopener nofollow">Vue Component Lifecycle</a>
+<br><a data-href="Vue Template Syntax" href="Vue Template Syntax" class="internal-link" target="_self" rel="noopener nofollow">Vue Template Syntax</a>
+<br><br>
+<br><a data-href="Vuex Overview" href="Vuex Overview" class="internal-link" target="_self" rel="noopener nofollow">Vuex Overview</a>
+<br><a data-href="Pinia Introduction" href="Pinia Introduction" class="internal-link" target="_self" rel="noopener nofollow">Pinia Introduction</a>
+<br><a data-href="Comparison Vuex vs Pinia" href="Comparison Vuex vs Pinia" class="internal-link" target="_self" rel="noopener nofollow">Comparison Vuex vs Pinia</a>
+<br><br>
+<br><a data-href="Vue Router Basics" href="Vue Router Basics" class="internal-link" target="_self" rel="noopener nofollow">Vue Router Basics</a>
+<br><a data-href="Vue Router Navigation Guards" href="Vue Router Navigation Guards" class="internal-link" target="_self" rel="noopener nofollow">Vue Router Navigation Guards</a>
+<br><br>
+<br><a data-href="Vite Introduction" href="Vite Introduction" class="internal-link" target="_self" rel="noopener nofollow">Vite Introduction</a>
+<br><a data-href="Vue DevTools Guide" href="Vue DevTools Guide" class="internal-link" target="_self" rel="noopener nofollow">Vue DevTools Guide</a>
+<br><br>
+<br><a data-href="Vue Composition API Deep Dive" href="Vue Composition API Deep Dive" class="internal-link" target="_self" rel="noopener nofollow">Vue Composition API Deep Dive</a>
+<br><a data-href="Vue Server-Side Rendering (SSR)" href="Vue Server-Side Rendering (SSR)" class="internal-link" target="_self" rel="noopener nofollow">Vue Server-Side Rendering (SSR)</a>
+<br><a data-href="Vue Performance Optimization Techniques" href="Vue Performance Optimization Techniques" class="internal-link" target="_self" rel="noopener nofollow">Vue Performance Optimization Techniques</a>
+<br><br>Dataview: No results to show for list query.]]></description><link>20-areas/_vue-moc.md.html</link><guid isPermaLink="false">20 Areas/_Vue Moc.md.md</guid><pubDate>Sat, 29 Mar 2025 12:55:14 GMT</pubDate></item><item><title><![CDATA[<a data-href="Vue Core" href="Vue Core" class="internal-link" target="_self" rel="noopener nofollow">Vue Core</a> &gt; Reactivity System]]></title><description><![CDATA[ 
+ <br><br><br>Vue 的响应式系统是通过数据劫持+依赖收集实现的自动更新机制，当数据变化时能精确更新相关视图。<br><br><br><br>
+<br>
+初始化阶段：
+// 示例：reactive() 实现
+function reactive(obj) {
+  return new Proxy(obj, {
+    get(target, key) {
+      track(target, key) // 依赖收集
+      return Reflect.get(...arguments)
+    },
+    set(target, key, value) {
+      trigger(target, key) // 触发更新
+      return Reflect.set(...arguments)
+    }
+  })
+}
+
+
+<br>
+依赖收集：通过 effect 建立数据与组件的映射关系
+
+<br>
+派发更新：采用异步队列 (nextTick) 批量更新
+
+<br><br><br><br>
+<br>
+组件状态：
+&lt;script setup&gt;
+const state = reactive({ count: 0 })
+&lt;/script&gt;
+
+
+<br>
+计算属性（<a data-href="Vue Computed" href="Vue Computed" class="internal-link" target="_self" rel="noopener nofollow">Vue Computed</a>）：
+const double = computed(() =&gt; state.count * 2)
+
+
+<br>
+副作用（<a data-href="Vue Watch" href="Vue Watch" class="internal-link" target="_self" rel="noopener nofollow">Vue Watch</a>）：
+watch(() =&gt; state.count, (newVal) =&gt; {
+  console.log('Count changed:', newVal)
+})
+
+
+<br><br>
+<br>响应式转换控制：
+
+<br>shallowReactive() 浅层响应
+<br>markRaw() 跳过代理
+
+
+<br>性能陷阱：
+
+<br>避免超大响应式对象（<a data-href="性能优化指南" href="性能优化指南" class="internal-link" target="_self" rel="noopener nofollow">性能优化指南</a>）
+<br>合理使用 effectScope（<a data-href="RFC-0041" href="RFC-0041" class="internal-link" target="_self" rel="noopener nofollow">RFC-0041</a>）
+
+
+<br><br>
+<br><a data-href="Virtual DOM" href="Virtual DOM" class="internal-link" target="_self" rel="noopener nofollow">Virtual DOM</a>（更新触发路径）
+<br><a data-href="JavaScript Proxies" href="JavaScript Proxies" class="internal-link" target="_self" rel="noopener nofollow">JavaScript Proxies</a>（底层机制）
+<br><a data-href="Reactive Programming" href="Reactive Programming" class="internal-link" target="_self" rel="noopener nofollow">Reactive Programming</a>（设计范式）
+<br><br>❌ 直接解构会丢失响应性：<br>const { count } = state // 非响应式
+<br>✅ 正确方式：<br>const count = toRef(state, 'count')
+<br><br>&lt;template&gt;
+  &lt;button @click="state.count++"&gt;
+    {{ state.count }} ({{ double }})
+  &lt;/button&gt;
+&lt;/template&gt;
+
+&lt;script setup&gt;
+import { reactive, computed } from 'vue'
+const state = reactive({ count: 0 })
+const double = computed(() =&gt; state.count * 2)
+&lt;/script&gt;
+]]></description><link>20-areas/vue-reactivity-system.html</link><guid isPermaLink="false">20 Areas/Vue Reactivity System.md</guid><pubDate>Mon, 31 Mar 2025 02:29:18 GMT</pubDate></item></channel></rss>
