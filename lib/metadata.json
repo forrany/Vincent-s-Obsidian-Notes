@@ -1,33 +1,28 @@
 {
   "vaultName": "VincentKo's NoteBook",
-  "lastExport": 1748588018550,
+  "lastExport": 1749116776786,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon outliner-plugin-dnd color-scheme-options-simplicity-topaz background-settings-workplace-theme-light-in-the-note background-settings-workplace-theme-dark-in-the-sky background-image-settings-markdown-page-transparent notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover folder-icons remove-arrow bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap is-fullscreen",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon outliner-plugin-dnd is-fullscreen color-scheme-options-simplicity-topaz background-settings-workplace-theme-light-in-the-note background-settings-workplace-theme-dark-in-the-sky background-image-settings-markdown-page-transparent notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover dark-background-file folder-icons remove-arrow folder-note-underline bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "10 Projects/01 AI/_MOC AI Agent 开发.md",
     "10 Projects/01 AI/高效构建 Agents.canvas",
+    "10 Projects/01 AI/什么是 Agent.canvas",
     "10 Projects/01 AI/AG-UI.canvas",
     "10 Projects/01 AI/Agent 定义.md",
-    "10 Projects/01 AI/Agentic AI MOC.canvas",
     "10 Projects/01 AI/Agents 头脑风暴 🧠.canvas",
-    "10 Projects/01 AI/AI 名词与线路.canvas",
     "10 Projects/01 AI/Human In The Loop (HITL).md",
-    "10 Projects/02 小鲸/小鲸交互协议.canvas",
-    "10 Projects/数字化流程/0 数字化流程转化方案.md",
-    "10 Projects/数字化流程/0 数字化流程SaaS.canvas",
-    "10 Projects/数字化流程/排期.md",
-    "10 Projects/数字化流程/数字化 Stage 画布协议.md",
+    "10 Projects/01 AI/LLM 开发演变 & 模式.canvas",
     "20 Areas/_Vue Moc.md.md",
     "20 Areas/Vue Reactivity System.md",
     "30 Resources/画布渲染.png",
     "30 Resources/空间类型.png",
-    "30 Resources/企业微信截图_b2d0eec9-7d3d-4059-aef1-65ffa76dca5a.png",
-    "30 Resources/企业微信截图_d29ad8c0-1fc6-4970-b549-381638160234.png",
     "30 Resources/小鲸自定义组件.png",
     "30 Resources/AG-UI.gif",
     "30 Resources/AG-UI 协议.gif",
     "30 Resources/AI Agent.png",
+    "30 Resources/AIDEV Agent.png",
     "30 Resources/Google-Gemini-FunctionCalling.png",
     "30 Resources/OpenAI-FunctionCalling.png",
     "30 Resources/Pasted image 20250418162340.png",
@@ -35,16 +30,16 @@
     "30 Resources/Pasted Image 20250529203743_277.png",
     "30 Resources/Pasted Image 20250529211204_038.png",
     "30 Resources/Pasted Image 20250529211755_348.png",
+    "30 Resources/Pasted image 20250604205752.png",
     "30 Resources/prompt.png",
     "index.md",
+    "lib/media/aidev-agent.png",
     "lib/media/prompt.png",
     "lib/media/ag-ui.gif",
     "lib/media/ag-ui-协议.gif",
     "lib/media/ai-agent.png",
     "lib/media/google-gemini-functioncalling.png",
     "lib/media/openai-functioncalling.png",
-    "lib/media/小鲸自定义组件.png",
-    "lib/media/空间类型.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -114,33 +109,383 @@
   ],
   "fileInfo": {
     "10 Projects/01 AI/高效构建 Agents.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 15439,
+      "modifiedTime": 1749116776786,
+      "sourceSize": 15511,
       "exportedPath": "10-projects/01-ai/高效构建-agents.html",
       "dependencies": []
     },
     "10 Projects/01 AI/Agent 定义.md": {
-      "modifiedTime": 1748588018550,
+      "modifiedTime": 1749116776786,
       "sourceSize": 459,
       "exportedPath": "10-projects/01-ai/agent-定义.html",
       "dependencies": []
     },
-    "10 Projects/01 AI/Agentic AI MOC.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 757,
-      "exportedPath": "10-projects/01-ai/agentic-ai-moc.html",
-      "dependencies": []
-    },
     "10 Projects/01 AI/Agents 头脑风暴 🧠.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 3419,
+      "modifiedTime": 1749116776786,
+      "sourceSize": 3493,
       "exportedPath": "10-projects/01-ai/agents-头脑风暴-🧠.html",
       "dependencies": []
     },
-    "10 Projects/01 AI/AI 名词与线路.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 9899,
-      "exportedPath": "10-projects/01-ai/ai-名词与线路.html",
+    "10 Projects/01 AI/Human In The Loop (HITL).md": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 524,
+      "exportedPath": "10-projects/01-ai/human-in-the-loop-(hitl).html",
+      "dependencies": []
+    },
+    "20 Areas/_Vue Moc.md.md": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 693,
+      "exportedPath": "20-areas/_vue-moc.md.html",
+      "dependencies": []
+    },
+    "20 Areas/Vue Reactivity System.md": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 2720,
+      "exportedPath": "20-areas/vue-reactivity-system.html",
+      "dependencies": []
+    },
+    "30 Resources/画布渲染.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 304428,
+      "exportedPath": "30-resources/画布渲染.png",
+      "dependencies": []
+    },
+    "30 Resources/空间类型.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 45766,
+      "exportedPath": "30-resources/空间类型.png",
+      "dependencies": []
+    },
+    "30 Resources/小鲸自定义组件.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 735580,
+      "exportedPath": "30-resources/小鲸自定义组件.png",
+      "dependencies": []
+    },
+    "30 Resources/AG-UI.gif": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 449370,
+      "exportedPath": "30-resources/ag-ui.gif",
+      "dependencies": []
+    },
+    "30 Resources/AG-UI 协议.gif": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 853348,
+      "exportedPath": "30-resources/ag-ui-协议.gif",
+      "dependencies": []
+    },
+    "30 Resources/AI Agent.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 406418,
+      "exportedPath": "30-resources/ai-agent.png",
+      "dependencies": []
+    },
+    "30 Resources/Google-Gemini-FunctionCalling.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 694226,
+      "exportedPath": "30-resources/google-gemini-functioncalling.png",
+      "dependencies": []
+    },
+    "30 Resources/OpenAI-FunctionCalling.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 433205,
+      "exportedPath": "30-resources/openai-functioncalling.png",
+      "dependencies": []
+    },
+    "30 Resources/Pasted image 20250418162340.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 49391,
+      "exportedPath": "30-resources/pasted-image-20250418162340.png",
+      "dependencies": []
+    },
+    "30 Resources/Pasted image 20250418162414.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 56182,
+      "exportedPath": "30-resources/pasted-image-20250418162414.png",
+      "dependencies": []
+    },
+    "30 Resources/prompt.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 254515,
+      "exportedPath": "30-resources/prompt.png",
+      "dependencies": []
+    },
+    "lib/media/prompt.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 254515,
+      "exportedPath": "lib/media/prompt.png",
+      "dependencies": []
+    },
+    "lib/media/ag-ui.gif": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 449370,
+      "exportedPath": "lib/media/ag-ui.gif",
+      "dependencies": []
+    },
+    "lib/media/ag-ui-协议.gif": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 853348,
+      "exportedPath": "lib/media/ag-ui-协议.gif",
+      "dependencies": []
+    },
+    "lib/media/ai-agent.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 406418,
+      "exportedPath": "lib/media/ai-agent.png",
+      "dependencies": []
+    },
+    "lib/media/google-gemini-functioncalling.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 694226,
+      "exportedPath": "lib/media/google-gemini-functioncalling.png",
+      "dependencies": []
+    },
+    "lib/media/openai-functioncalling.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 433205,
+      "exportedPath": "lib/media/openai-functioncalling.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 27078,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 901,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 138258,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 25725,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 854944,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 529,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 233,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 1995,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 3032,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "10 Projects/01 AI/AG-UI.canvas": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 1593,
+      "exportedPath": "10-projects/01-ai/ag-ui.html",
+      "dependencies": []
+    },
+    "30 Resources/Pasted Image 20250529203743_277.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 209018,
+      "exportedPath": "30-resources/pasted-image-20250529203743_277.png",
+      "dependencies": []
+    },
+    "30 Resources/Pasted Image 20250529211204_038.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 170259,
+      "exportedPath": "30-resources/pasted-image-20250529211204_038.png",
+      "dependencies": []
+    },
+    "30 Resources/Pasted Image 20250529211755_348.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 143673,
+      "exportedPath": "30-resources/pasted-image-20250529211755_348.png",
+      "dependencies": []
+    },
+    "10 Projects/01 AI/_MOC AI Agent 开发.md": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 2152,
+      "exportedPath": "10-projects/01-ai/_moc-ai-agent-开发.html",
+      "dependencies": []
+    },
+    "10 Projects/01 AI/什么是 Agent.canvas": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 3837,
+      "exportedPath": "10-projects/01-ai/什么是-agent.html",
+      "dependencies": [
+        "lib/media/aidev-agent.png"
+      ]
+    },
+    "10 Projects/01 AI/LLM 开发演变 & 模式.canvas": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 9973,
+      "exportedPath": "10-projects/01-ai/llm-开发演变-&-模式.html",
       "dependencies": [
         "lib/media/prompt.png",
         "lib/media/ag-ui.gif",
@@ -150,403 +495,22 @@
         "lib/media/openai-functioncalling.png"
       ]
     },
-    "10 Projects/01 AI/Human In The Loop (HITL).md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 524,
-      "exportedPath": "10-projects/01-ai/human-in-the-loop-(hitl).html",
+    "30 Resources/AIDEV Agent.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 129631,
+      "exportedPath": "30-resources/aidev-agent.png",
       "dependencies": []
     },
-    "10 Projects/02 小鲸/小鲸交互协议.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 9634,
-      "exportedPath": "10-projects/02-小鲸/小鲸交互协议.html",
-      "dependencies": [
-        "lib/media/小鲸自定义组件.png",
-        "lib/media/空间类型.png"
-      ]
-    },
-    "10 Projects/数字化流程/0 数字化流程SaaS.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 3880,
-      "exportedPath": "10-projects/数字化流程/0-数字化流程saas.html",
-      "dependencies": []
-    },
-    "10 Projects/数字化流程/排期.md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 3505,
-      "exportedPath": "10-projects/数字化流程/排期.html",
-      "dependencies": []
-    },
-    "20 Areas/_Vue Moc.md.md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 693,
-      "exportedPath": "20-areas/_vue-moc.md.html",
-      "dependencies": []
-    },
-    "20 Areas/Vue Reactivity System.md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 2720,
-      "exportedPath": "20-areas/vue-reactivity-system.html",
-      "dependencies": []
-    },
-    "30 Resources/画布渲染.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 304428,
-      "exportedPath": "30-resources/画布渲染.png",
-      "dependencies": []
-    },
-    "30 Resources/空间类型.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 45766,
-      "exportedPath": "30-resources/空间类型.png",
-      "dependencies": []
-    },
-    "30 Resources/小鲸自定义组件.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 735580,
-      "exportedPath": "30-resources/小鲸自定义组件.png",
-      "dependencies": []
-    },
-    "30 Resources/AG-UI.gif": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 449370,
-      "exportedPath": "30-resources/ag-ui.gif",
-      "dependencies": []
-    },
-    "30 Resources/AG-UI 协议.gif": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 853348,
-      "exportedPath": "30-resources/ag-ui-协议.gif",
-      "dependencies": []
-    },
-    "30 Resources/AI Agent.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 406418,
-      "exportedPath": "30-resources/ai-agent.png",
-      "dependencies": []
-    },
-    "30 Resources/Google-Gemini-FunctionCalling.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 694226,
-      "exportedPath": "30-resources/google-gemini-functioncalling.png",
-      "dependencies": []
-    },
-    "30 Resources/OpenAI-FunctionCalling.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 433205,
-      "exportedPath": "30-resources/openai-functioncalling.png",
-      "dependencies": []
-    },
-    "30 Resources/Pasted image 20250418162340.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 49391,
-      "exportedPath": "30-resources/pasted-image-20250418162340.png",
-      "dependencies": []
-    },
-    "30 Resources/Pasted image 20250418162414.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 56182,
-      "exportedPath": "30-resources/pasted-image-20250418162414.png",
-      "dependencies": []
-    },
-    "30 Resources/prompt.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 254515,
-      "exportedPath": "30-resources/prompt.png",
-      "dependencies": []
-    },
-    "lib/media/prompt.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 254515,
-      "exportedPath": "lib/media/prompt.png",
-      "dependencies": []
-    },
-    "lib/media/ag-ui.gif": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 449370,
-      "exportedPath": "lib/media/ag-ui.gif",
-      "dependencies": []
-    },
-    "lib/media/ag-ui-协议.gif": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 853348,
-      "exportedPath": "lib/media/ag-ui-协议.gif",
-      "dependencies": []
-    },
-    "lib/media/ai-agent.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 406418,
-      "exportedPath": "lib/media/ai-agent.png",
-      "dependencies": []
-    },
-    "lib/media/google-gemini-functioncalling.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 694226,
-      "exportedPath": "lib/media/google-gemini-functioncalling.png",
-      "dependencies": []
-    },
-    "lib/media/openai-functioncalling.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 433205,
-      "exportedPath": "lib/media/openai-functioncalling.png",
-      "dependencies": []
-    },
-    "lib/media/小鲸自定义组件.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 735580,
-      "exportedPath": "lib/media/小鲸自定义组件.png",
-      "dependencies": []
-    },
-    "lib/media/空间类型.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 45766,
-      "exportedPath": "lib/media/空间类型.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
-    "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 66800,
-      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 104232,
-      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 104332,
-      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 98868,
-      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 106876,
-      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 105804,
-      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 106108,
-      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 111708,
-      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 192740,
-      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 161376,
-      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 191568,
-      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 155288,
-      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 7876,
-      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 315,
-      "exportedPath": "lib/media/6155340132a851f6089e.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 32398,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 1198,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 138258,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 25725,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 854944,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 529,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 208,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/snippets.css": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 1995,
-      "exportedPath": "lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "index.md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 3032,
-      "exportedPath": "index.html",
-      "dependencies": []
-    },
-    "10 Projects/01 AI/AG-UI.canvas": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 13148,
-      "exportedPath": "10-projects/01-ai/ag-ui.html",
-      "dependencies": []
-    },
-    "10 Projects/数字化流程/0 数字化流程转化方案.md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 51962,
-      "exportedPath": "10-projects/数字化流程/0-数字化流程转化方案.html",
-      "dependencies": []
-    },
-    "10 Projects/数字化流程/数字化 Stage 画布协议.md": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 1112,
-      "exportedPath": "10-projects/数字化流程/数字化-stage-画布协议.html",
-      "dependencies": []
-    },
-    "30 Resources/企业微信截图_b2d0eec9-7d3d-4059-aef1-65ffa76dca5a.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 14499,
-      "exportedPath": "30-resources/企业微信截图_b2d0eec9-7d3d-4059-aef1-65ffa76dca5a.png",
-      "dependencies": []
-    },
-    "30 Resources/企业微信截图_d29ad8c0-1fc6-4970-b549-381638160234.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 87855,
-      "exportedPath": "30-resources/企业微信截图_d29ad8c0-1fc6-4970-b549-381638160234.png",
-      "dependencies": []
-    },
-    "30 Resources/Pasted Image 20250529203743_277.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 209018,
-      "exportedPath": "30-resources/pasted-image-20250529203743_277.png",
-      "dependencies": []
-    },
-    "30 Resources/Pasted Image 20250529211204_038.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 170259,
-      "exportedPath": "30-resources/pasted-image-20250529211204_038.png",
+    "30 Resources/Pasted image 20250604205752.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 294769,
+      "exportedPath": "30-resources/pasted-image-20250604205752.png",
       "dependencies": []
     },
-    "30 Resources/Pasted Image 20250529211755_348.png": {
-      "modifiedTime": 1748588018550,
-      "sourceSize": 143673,
-      "exportedPath": "30-resources/pasted-image-20250529211755_348.png",
+    "lib/media/aidev-agent.png": {
+      "modifiedTime": 1749116776786,
+      "sourceSize": 129631,
+      "exportedPath": "lib/media/aidev-agent.png",
       "dependencies": []
     }
   }

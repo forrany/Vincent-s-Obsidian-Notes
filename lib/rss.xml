@@ -1,113 +1,76 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VincentKo's NoteBook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://vincent-s-obsidian-notes.vercel.app/</link><image><url>https://vincent-s-obsidian-notes.vercel.app/lib/media/favicon.png</url><title>VincentKo's NoteBook</title><link>https://vincent-s-obsidian-notes.vercel.app/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 30 May 2025 06:53:44 GMT</lastBuildDate><atom:link href="https://vincent-s-obsidian-notes.vercel.app/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 30 May 2025 06:53:38 GMT</pubDate><copyright><![CDATA[Vincent Ko]]></copyright><ttl>60</ttl><dc:creator>Vincent Ko</dc:creator><item><title><![CDATA[Agent 定义]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VincentKo's NoteBook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://vincent-s-obsidian-notes.vercel.app/</link><image><url>https://vincent-s-obsidian-notes.vercel.app/lib/media/favicon.png</url><title>VincentKo's NoteBook</title><link>https://vincent-s-obsidian-notes.vercel.app/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 05 Jun 2025 09:46:29 GMT</lastBuildDate><atom:link href="https://vincent-s-obsidian-notes.vercel.app/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 2025 09:46:16 GMT</pubDate><copyright><![CDATA[Vincent Ko]]></copyright><ttl>60</ttl><dc:creator>Vincent Ko</dc:creator><item><title><![CDATA[_MOC AI Agent 开发]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-tooltip-position="top" aria-label="什么是 Agent.canvas" data-href="什么是 Agent.canvas" href="https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/什么是-agent.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="10 Projects/01 AI/什么是 Agent.canvas" style="--data-link-path: 10 Projects/01 AI/什么是 Agent.canvas;">什么是 Agent? (核心定义与特征)</a>
+<br><a data-tooltip-position="top" aria-label="Agent 的核心组件 (LLM, Memory, Planning, Tools)" data-href="Agent 的核心组件 (LLM, Memory, Planning, Tools)" href="https://vincent-s-obsidian-notes.vercel.app/Agent 的核心组件 (LLM, Memory, Planning, Tools)" class="internal-link" target="_self" rel="noopener nofollow">Agent 的核心组件</a>
+
+<br><a data-tooltip-position="top" aria-label="Agent Memory 的类型与实现" data-href="Agent Memory 的类型与实现" href="https://vincent-s-obsidian-notes.vercel.app/Agent Memory 的类型与实现" class="internal-link" target="_self" rel="noopener nofollow">Memory</a>
+<br><a data-tooltip-position="top" aria-label="Agent Planning 策略" data-href="Agent Planning 策略" href="https://vincent-s-obsidian-notes.vercel.app/Agent Planning 策略" class="internal-link" target="_self" rel="noopener nofollow">Planning</a>
+<br><a data-tooltip-position="top" aria-label="Agent Tool 使用与 Function Calling" data-href="Agent Tool 使用与 Function Calling" href="https://vincent-s-obsidian-notes.vercel.app/Agent Tool 使用与 Function Calling" class="internal-link" target="_self" rel="noopener nofollow">Tools / Action</a>
+
+
+<br><a data-href="AI Agent 与 LLM 的关系" href="https://vincent-s-obsidian-notes.vercel.app/AI Agent 与 LLM 的关系" class="internal-link" target="_self" rel="noopener nofollow">AI Agent 与 LLM 的关系</a>
+<br><a data-tooltip-position="top" aria-label="Human In The Loop (HITL) 在 Agent 中的作用" data-href="Human In The Loop (HITL) 在 Agent 中的作用" href="https://vincent-s-obsidian-notes.vercel.app/Human In The Loop (HITL) 在 Agent 中的作用" class="internal-link" target="_self" rel="noopener nofollow">Human In The Loop (HITL)</a>
+<br><a data-tooltip-position="top" aria-label="LLM 开发演变 &amp; 模式.canvas" data-href="LLM 开发演变 &amp; 模式.canvas" href="https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/llm-开发演变-&amp;-模式.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="10 Projects/01 AI/LLM 开发演变 &amp; 模式.canvas" style="--data-link-path: 10 Projects/01 AI/LLM 开发演变 &amp; 模式.canvas;">LLM 开发演变 &amp; 模式 (背景知识)</a>
+<br><br>
+<br><a data-href="ReAct 模式" href="https://vincent-s-obsidian-notes.vercel.app/ReAct 模式" class="internal-link" target="_self" rel="noopener nofollow">ReAct 模式</a>
+<br><a data-href="Chain-of-Thought (CoT) for Agents" href="https://vincent-s-obsidian-notes.vercel.app/Chain-of-Thought (CoT) for Agents" class="internal-link" target="_self" rel="noopener nofollow">Chain-of-Thought (CoT) for Agents</a>
+<br><a data-href="Self-Ask 模式" href="https://vincent-s-obsidian-notes.vercel.app/Self-Ask 模式" class="internal-link" target="_self" rel="noopener nofollow">Self-Ask 模式</a>
+<br><a data-href="Tree-of-Thought (ToT)" href="https://vincent-s-obsidian-notes.vercel.app/Tree-of-Thought (ToT)" class="internal-link" target="_self" rel="noopener nofollow">Tree-of-Thought (ToT)</a> # &lt;-- 如果你有相关笔记
+<br><a data-href="Multi-Agent Systems (MAS) 架构" href="https://vincent-s-obsidian-notes.vercel.app/Multi-Agent Systems (MAS) 架构" class="internal-link" target="_self" rel="noopener nofollow">Multi-Agent Systems (MAS) 架构</a>
+<br><a data-href="Agent 开发的设计原则" href="https://vincent-s-obsidian-notes.vercel.app/Agent 开发的设计原则" class="internal-link" target="_self" rel="noopener nofollow">Agent 开发的设计原则</a> # &lt;-- 可以放一些通用原则
+<br><br>
+<br><a data-href="AI Agent 开发生命周期" href="https://vincent-s-obsidian-notes.vercel.app/AI Agent 开发生命周期" class="internal-link" target="_self" rel="noopener nofollow">AI Agent 开发生命周期</a>
+
+<br><a data-href="需求分析与 Agent 设计" href="https://vincent-s-obsidian-notes.vercel.app/需求分析与 Agent 设计" class="internal-link" target="_self" rel="noopener nofollow">需求分析与 Agent 设计</a>
+<br><a data-href="Agent 实现与调试" href="https://vincent-s-obsidian-notes.vercel.app/Agent 实现与调试" class="internal-link" target="_self" rel="noopener nofollow">Agent 实现与调试</a>
+<br><a data-href="Agent 评估与测试" href="https://vincent-s-obsidian-notes.vercel.app/Agent 评估与测试" class="internal-link" target="_self" rel="noopener nofollow">Agent 评估与测试</a>
+<br><a data-href="Agent 部署与监控" href="https://vincent-s-obsidian-notes.vercel.app/Agent 部署与监控" class="internal-link" target="_self" rel="noopener nofollow">Agent 部署与监控</a>
+
+
+<br>开发框架 (Frameworks):
+
+<br><a data-href="LangChain Agent 开发" href="https://vincent-s-obsidian-notes.vercel.app/LangChain Agent 开发" class="internal-link" target="_self" rel="noopener nofollow">LangChain Agent 开发</a>
+<br><a data-href="LlamaIndex Agent 开发" href="https://vincent-s-obsidian-notes.vercel.app/LlamaIndex Agent 开发" class="internal-link" target="_self" rel="noopener nofollow">LlamaIndex Agent 开发</a>
+<br><a data-href="AutoGen 多 Agent 协作" href="https://vincent-s-obsidian-notes.vercel.app/AutoGen 多 Agent 协作" class="internal-link" target="_self" rel="noopener nofollow">AutoGen 多 Agent 协作</a>
+<br><a data-href="CrewAI 介绍与使用" href="https://vincent-s-obsidian-notes.vercel.app/CrewAI 介绍与使用" class="internal-link" target="_self" rel="noopener nofollow">CrewAI 介绍与使用</a>
+<br><a data-href="Mastra 框架" href="https://vincent-s-obsidian-notes.vercel.app/Mastra 框架" class="internal-link" target="_self" rel="noopener nofollow">Mastra 框架</a>
+
+
+<br>关键技术:
+
+<br><a data-href="Agent Prompt Engineering 技巧" href="https://vincent-s-obsidian-notes.vercel.app/Agent Prompt Engineering 技巧" class="internal-link" target="_self" rel="noopener nofollow">Agent Prompt Engineering 技巧</a>
+
+
+<br><br>
+<br><a data-tooltip-position="top" aria-label="高效构建 Agents.canvas" data-href="高效构建 Agents.canvas" href="https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/高效构建-agents.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="10 Projects/01 AI/高效构建 Agents.canvas" style="--data-link-path: 10 Projects/01 AI/高效构建 Agents.canvas;">高效构建 Agents 的方法</a>
+<br><a data-href="Agent 的成本控制策略" href="https://vincent-s-obsidian-notes.vercel.app/Agent 的成本控制策略" class="internal-link" target="_self" rel="noopener nofollow">Agent 的成本控制策略</a>
+<br><a data-href="Agent 的安全性与对齐问题" href="https://vincent-s-obsidian-notes.vercel.app/Agent 的安全性与对齐问题" class="internal-link" target="_self" rel="noopener nofollow">Agent 的安全性与对齐问题</a>
+<br><a data-href="Agent 性能优化" href="https://vincent-s-obsidian-notes.vercel.app/Agent 性能优化" class="internal-link" target="_self" rel="noopener nofollow">Agent 性能优化</a>
+<br><br>
+<br><a data-href="AI Agent 的典型应用场景" href="https://vincent-s-obsidian-notes.vercel.app/AI Agent 的典型应用场景" class="internal-link" target="_self" rel="noopener nofollow">AI Agent 的典型应用场景</a>
+
+<br><a data-href="自动化任务 Agent" href="https://vincent-s-obsidian-notes.vercel.app/自动化任务 Agent" class="internal-link" target="_self" rel="noopener nofollow">自动化任务 Agent</a>
+<br><a data-href="信息检索与分析 Agent" href="https://vincent-s-obsidian-notes.vercel.app/信息检索与分析 Agent" class="internal-link" target="_self" rel="noopener nofollow">信息检索与分析 Agent</a>
+<br><a data-href="代码生成 Agent" href="https://vincent-s-obsidian-notes.vercel.app/代码生成 Agent" class="internal-link" target="_self" rel="noopener nofollow">代码生成 Agent</a>
+<br><a data-href="客户服务 Agent" href="https://vincent-s-obsidian-notes.vercel.app/客户服务 Agent" class="internal-link" target="_self" rel="noopener nofollow">客户服务 Agent</a>
+
+
+<br>示例项目 &amp; Demos:
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/forrany/Mastra-Demo-Obsidian-Canvas" rel="noopener nofollow" class="external-link" href="https://github.com/forrany/Mastra-Demo-Obsidian-Canvas" target="_blank">基于 Mastra 的 Obsidian Canvas Agent 开发 Demo</a>
+
+
+<br><br>
+<br><a data-href="推荐的 Agent 相关论文" href="https://vincent-s-obsidian-notes.vercel.app/推荐的 Agent 相关论文" class="internal-link" target="_self" rel="noopener nofollow">推荐的 Agent 相关论文</a>
+<br><a data-href="优秀的 Agent 开源项目" href="https://vincent-s-obsidian-notes.vercel.app/优秀的 Agent 开源项目" class="internal-link" target="_self" rel="noopener nofollow">优秀的 Agent 开源项目</a>
+<br><a data-href="在线课程与教程" href="https://vincent-s-obsidian-notes.vercel.app/在线课程与教程" class="internal-link" target="_self" rel="noopener nofollow">在线课程与教程</a>
+]]></description><link>https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/_moc-ai-agent-开发.html</link><guid isPermaLink="false">10 Projects/01 AI/_MOC AI Agent 开发.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Thu, 05 Jun 2025 09:43:59 GMT</pubDate></item><item><title><![CDATA[Agent 定义]]></title><description><![CDATA[ 
  <br><br>AI 领域，Agent 本身可以有多种定义，我们更具体的定义为以下几种：<br>
 <br>代理系统 (Agentic Systems): 涵盖所有使用 LLM 和工具完成任务的系统。
 <br>工作流 (Workflows): LLM 和工具通过预定义的代码路径进行编排。
 <br>代理 (Agents): LLM 动态指导自身流程和工具使用，保持对任务完成方式的控制。
 ]]></description><link>https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/agent-定义.html</link><guid isPermaLink="false">10 Projects/01 AI/Agent 定义.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Fri, 23 May 2025 09:32:41 GMT</pubDate></item><item><title><![CDATA[Human In The Loop (HITL)]]></title><description><![CDATA[ 
- <br><br><br>允许 Agent 执行过程中请求人类允许或批准，从而使得 <a data-href="AI 系统" href="https://vincent-s-obsidian-notes.vercel.app/AI 系统" class="internal-link" target="_self" rel="noopener nofollow">AI 系统</a> 更加可靠和可信<br><br>在构建复杂决策系统或需要人工决策和干预的 AI 应用时，这种模式是非常有效的。<br><img alt="image.png" src="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim" referrerpolicy="no-referrer">]]></description><link>https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/human-in-the-loop-(hitl).html</link><guid isPermaLink="false">10 Projects/01 AI/Human In The Loop (HITL).md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Wed, 21 May 2025 09:11:22 GMT</pubDate><enclosure url="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[排期]]></title><description><![CDATA[ 
- <br><br><br><br>目标：完成流程列表、任务列表的基础交互逻辑<br><br><br><br>目标：完成画布渲染、交互逻辑及协议转换基础<br><br><br><br>目标：完成画布功能优化与全流程测试<br><br><br><br>
-<br>画布开发优先级：因画布模块需至少 2 周，需确保资源集中投入，避免与其他模块冲突。
-<br>协议转换依赖：画布协议转换需在画布核心功能完成后进行，确保数据一致性。
-<br>并行开发：流程列表和任务列表可并行开发，但需确保接口一致性。
-<br>测试阶段：建议在画布开发完成后集中测试，避免重复劳动。
-<br><br><br><br><br>此排期可根据实际进度动态调整，建议每周进行进度同步和资源分配优化。]]></description><link>https://vincent-s-obsidian-notes.vercel.app/10-projects/数字化流程/排期.html</link><guid isPermaLink="false">10 Projects/数字化流程/排期.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Mon, 19 May 2025 07:23:37 GMT</pubDate></item><item><title><![CDATA[数字化 Stage 画布协议]]></title><description><![CDATA[ 
- <br><br>
-<br>node
-
-<br>新增节点
-
-<br>activites 插入节点
-
-<br>id 通过 uuid 生成
-<br>确认下默认展示的插件 ？（是否留空）
-
-<br>component:
-
-<br>code 对应插件
-<br>data 对应插件类型
-
-
-
-
-
-
-<br>locations
-
-<br>添加节点
-
-<br>type: "tasknode"
-<br>x
-<br>y
-<br>id: uuid
-
-
-
-
-<br>删除原来的线，节点前、后各加两条线
-
-<br>flows
-
-<br>uuid 生成 flow 的 key
-
-
-<br>line
-
-<br>用于画布消费，需要添加 arrow
-
-<br>left/right ，方向从左到右
-
-
-
-
-
-
-
-
-
-
-<br>Stage
-
-<br>新增 Stage 相当于添加 3 个节点
-
-<br>并行网管 ParallelGateway
-
-<br>locations
-<br>gateways 添加节点
-
-<br>id:uuid
-<br>incoming: incomingLineId[]
-<br>outgoing: outgoingLineId[]
-<br>type: ParallelGateway
-<br>converge_gateway_id: 对应汇聚网关的节点 id
-
-
-
-
-<br>tasknode
-
-<br>
-<br>locations
-<br>activites 添加节点，同上
-
-
-<br>汇聚网关 ConvergeGateway
-
-<br>locations
-<br>gateways 添加节点
-
-<br>id
-<br>incoming: lineId[]
-<br>outgoing: string
-<br>type: ConvergeGateway
-
-
-
-
-
-
-
-
-]]></description><link>https://vincent-s-obsidian-notes.vercel.app/10-projects/数字化流程/数字化-stage-画布协议.html</link><guid isPermaLink="false">10 Projects/数字化流程/数字化 Stage 画布协议.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Thu, 29 May 2025 13:22:17 GMT</pubDate></item><item><title><![CDATA[Vue.js Map of Content]]></title><description><![CDATA[ 
+ <br><br><br>允许 Agent 执行过程中请求人类允许或批准，从而使得 <a data-href="AI 系统" href="https://vincent-s-obsidian-notes.vercel.app/AI 系统" class="internal-link" target="_self" rel="noopener nofollow">AI 系统</a> 更加可靠和可信<br><br>在构建复杂决策系统或需要人工决策和干预的 AI 应用时，这种模式是非常有效的。<br><img alt="image.png" src="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim" referrerpolicy="no-referrer">]]></description><link>https://vincent-s-obsidian-notes.vercel.app/10-projects/01-ai/human-in-the-loop-(hitl).html</link><guid isPermaLink="false">10 Projects/01 AI/Human In The Loop (HITL).md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Wed, 21 May 2025 09:11:22 GMT</pubDate><enclosure url="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://pic-bed-1302552283.cos.ap-guangzhou.myqcloud.com/undefined20250521170132016.png?imageSlim"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Vue.js Map of Content]]></title><description><![CDATA[ 
  <br><br>这是关于 Vue.js 的核心知识地图。<br><br>
 <br><a data-href="Vue Reactivity System" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/vue-reactivity-system.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/concept #tech/vue/reactivity #status/evergreen #concept/state-management" data-link-path="20 Areas/Vue Reactivity System.md" style="--data-link-tags: #type/concept #tech/vue/reactivity #status/evergreen #concept/state-management; --data-link-path: 20 Areas/Vue Reactivity System.md;">Vue Reactivity System</a>
 <br><a data-href="Vue Virtual DOM" href="https://vincent-s-obsidian-notes.vercel.app/Vue Virtual DOM" class="internal-link" target="_self" rel="noopener nofollow">Vue Virtual DOM</a>
@@ -203,4 +166,4 @@ const state = reactive({ count: 0 })
 const double = computed(() =&gt; state.count * 2)
 &lt;/script&gt;
 ]]></description><link>https://vincent-s-obsidian-notes.vercel.app/20-areas/vue-reactivity-system.html</link><guid isPermaLink="false">20 Areas/Vue Reactivity System.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Mon, 31 Mar 2025 02:29:18 GMT</pubDate></item><item><title><![CDATA[知识中枢]]></title><description><![CDATA[ 
- <br><br>2025-05-30 · 周五总结<br><br>📥 收集笔记<br>💡 解决问题<br>🧩 代码片段<br><br>共有笔记 57 篇，其中概念笔记 15 篇，代码片段 2 篇。知识成熟度: 长青笔记 4 篇，成长中笔记 17 篇<br><br><br><br><a data-tooltip-position="top" aria-label="00 Inbox/数据表格处理逻辑.md" data-href="00 Inbox/数据表格处理逻辑.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/数据表格处理逻辑.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="00 Inbox/数据表格处理逻辑.md" style="--data-link-path: 00 Inbox/数据表格处理逻辑.md;">数据表格处理逻辑</a><br><a data-tooltip-position="top" aria-label="00 Inbox/Tasks.md" data-href="00 Inbox/Tasks.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/tasks.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#study #life #work" data-link-path="00 Inbox/Tasks.md" style="--data-link-tags: #study #life #work; --data-link-path: 00 Inbox/Tasks.md;">Tasks</a><br><a data-tooltip-position="top" aria-label="00 Inbox/用户浏览时停止自动关动的办法.md" data-href="00 Inbox/用户浏览时停止自动关动的办法.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/用户浏览时停止自动关动的办法.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/snippet #tech/js #concept/reactivity #status/archived" data-link-path="00 Inbox/用户浏览时停止自动关动的办法.md" style="--data-link-tags: #type/snippet #tech/js #concept/reactivity #status/archived; --data-link-path: 00 Inbox/用户浏览时停止自动关动的办法.md;">用户浏览时停止自动关动的办法</a><br><a data-tooltip-position="top" aria-label="00 Inbox/为什么需要 AG-UI.md" data-href="00 Inbox/为什么需要 AG-UI.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/为什么需要-ag-ui.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="00 Inbox/为什么需要 AG-UI.md" style="--data-link-path: 00 Inbox/为什么需要 AG-UI.md;">为什么需要 AG-UI</a><br><a data-tooltip-position="top" aria-label="00 Inbox/小鲸.md" data-href="00 Inbox/小鲸.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/小鲸.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="00 Inbox/小鲸.md" style="--data-link-path: 00 Inbox/小鲸.md;">小鲸</a><br><br>Dataview: No results to show for table query.<br><br><br><a data-tooltip-position="top" aria-label="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" data-href="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/_learning-python-&amp;-pandas-for-data-processing-moc.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing" data-link-path="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" style="--data-link-tags: #type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing; --data-link-path: 20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md;">_Learning Python &amp; Pandas for Data Processing MOC</a><br><br><br><br><br><br><a data-tooltip-position="top" aria-label="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" data-href="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/_learning-python-&amp;-pandas-for-data-processing-moc.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing" data-link-path="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" style="--data-link-tags: #type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing; --data-link-path: 20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md;">_Learning Python &amp; Pandas for Data Processing MOC</a><br><a data-tooltip-position="top" aria-label="20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md" data-href="20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/python-添加打印语句-(print)-进行调试和反馈.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #python/debugging #python/data-processing #status/seed" data-link-path="20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md" style="--data-link-tags: #type/technique #tech/python #python/debugging #python/data-processing #status/seed; --data-link-path: 20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md;">Python - 添加打印语句 (print) 进行调试和反馈</a><br><a data-tooltip-position="top" aria-label="20 Areas/Python - 使用字典进行配置 (如 col_mapping).md" data-href="20 Areas/Python - 使用字典进行配置 (如 col_mapping).md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/python-使用字典进行配置-(如-col_mapping).html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #python/best-practice #python/data-processing #status/seed" data-link-path="20 Areas/Python - 使用字典进行配置 (如 col_mapping).md" style="--data-link-tags: #type/technique #tech/python #python/best-practice #python/data-processing #status/seed; --data-link-path: 20 Areas/Python - 使用字典进行配置 (如 col_mapping).md;">Python - 使用字典进行配置 (如 col_mapping)</a><br><a data-tooltip-position="top" aria-label="20 Areas/Pandas - 创建和修改列.md" data-href="20 Areas/Pandas - 创建和修改列.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/pandas-创建和修改列.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #tech/python/pandas #python/data-processing #status/growing" data-link-path="20 Areas/Pandas - 创建和修改列.md" style="--data-link-tags: #type/technique #tech/python #tech/python/pandas #python/data-processing #status/growing; --data-link-path: 20 Areas/Pandas - 创建和修改列.md;">Pandas - 创建和修改列</a><br><a data-tooltip-position="top" aria-label="20 Areas/Pandas - 列之间的算术运算.md" data-href="20 Areas/Pandas - 列之间的算术运算.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/pandas-列之间的算术运算.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #tech/python/pandas #python/data-processing #status/seed" data-link-path="20 Areas/Pandas - 列之间的算术运算.md" style="--data-link-tags: #type/technique #tech/python #tech/python/pandas #python/data-processing #status/seed; --data-link-path: 20 Areas/Pandas - 列之间的算术运算.md;">Pandas - 列之间的算术运算</a><br><br><br><br><br><br><br><br>郝怡恒 📅 2025-05-29 (<a rel="noopener" target="_self" class="internal-link">Tasks</a>)<a class="tasks-edit" title="Edit task" href="https://vincent-s-obsidian-notes.vercel.app/about:blank#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 周六 31日 5月 (right-click for more options)"></a><br>风险工单处理 <a href="https://vincent-s-obsidian-notes.vercel.app?query=tag:work" class="tag" target="_blank" rel="noopener nofollow" data-tag-name="#work">#work</a> 📅 2025-05-29<br>]]></description><link>https://vincent-s-obsidian-notes.vercel.app/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Wed, 28 May 2025 06:36:34 GMT</pubDate></item></channel></rss>
+ <br><br>2025-06-05 · 周四创新<br><br>📥 收集笔记<br>💡 解决问题<br>🧩 代码片段<br><br>共有笔记 62 篇，其中概念笔记 15 篇，代码片段 2 篇。知识成熟度: 长青笔记 4 篇，成长中笔记 17 篇<br><br><br><br><a data-tooltip-position="top" aria-label="00 Inbox/课程开发平台 -- badass.dev.md" data-href="00 Inbox/课程开发平台 -- badass.dev.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/课程开发平台-badass.dev.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#tools/生产力" data-link-path="00 Inbox/课程开发平台 -- badass.dev.md" style="--data-link-tags: #tools/生产力; --data-link-path: 00 Inbox/课程开发平台 -- badass.dev.md;">课程开发平台 -- badass.dev</a><br><a data-tooltip-position="top" aria-label="00 Inbox/Tasks.md" data-href="00 Inbox/Tasks.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/tasks.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#study #life #work" data-link-path="00 Inbox/Tasks.md" style="--data-link-tags: #study #life #work; --data-link-path: 00 Inbox/Tasks.md;">Tasks</a><br><a data-tooltip-position="top" aria-label="00 Inbox/数据表格处理逻辑.md" data-href="00 Inbox/数据表格处理逻辑.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/数据表格处理逻辑.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="00 Inbox/数据表格处理逻辑.md" style="--data-link-path: 00 Inbox/数据表格处理逻辑.md;">数据表格处理逻辑</a><br><a data-tooltip-position="top" aria-label="00 Inbox/用户浏览时停止自动关动的办法.md" data-href="00 Inbox/用户浏览时停止自动关动的办法.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/用户浏览时停止自动关动的办法.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/snippet #tech/js #concept/reactivity #status/archived" data-link-path="00 Inbox/用户浏览时停止自动关动的办法.md" style="--data-link-tags: #type/snippet #tech/js #concept/reactivity #status/archived; --data-link-path: 00 Inbox/用户浏览时停止自动关动的办法.md;">用户浏览时停止自动关动的办法</a><br><a data-tooltip-position="top" aria-label="00 Inbox/小鲸.md" data-href="00 Inbox/小鲸.md" href="https://vincent-s-obsidian-notes.vercel.app/00-inbox/小鲸.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="" data-link-path="00 Inbox/小鲸.md" style="--data-link-path: 00 Inbox/小鲸.md;">小鲸</a><br><br><br><br><br><a data-tooltip-position="top" aria-label="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" data-href="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/_learning-python-&amp;-pandas-for-data-processing-moc.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing" data-link-path="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" style="--data-link-tags: #type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing; --data-link-path: 20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md;">_Learning Python &amp; Pandas for Data Processing MOC</a><br><br><br><br><br><br><a data-tooltip-position="top" aria-label="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" data-href="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/_learning-python-&amp;-pandas-for-data-processing-moc.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing" data-link-path="20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md" style="--data-link-tags: #type/moc #tech/python #tech/python/pandas #python/data-processing #status/growing; --data-link-path: 20 Areas/_Learning Python &amp; Pandas for Data Processing MOC.md;">_Learning Python &amp; Pandas for Data Processing MOC</a><br><a data-tooltip-position="top" aria-label="20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md" data-href="20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/python-添加打印语句-(print)-进行调试和反馈.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #python/debugging #python/data-processing #status/seed" data-link-path="20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md" style="--data-link-tags: #type/technique #tech/python #python/debugging #python/data-processing #status/seed; --data-link-path: 20 Areas/Python - 添加打印语句 (print) 进行调试和反馈.md;">Python - 添加打印语句 (print) 进行调试和反馈</a><br><a data-tooltip-position="top" aria-label="20 Areas/Python - 使用字典进行配置 (如 col_mapping).md" data-href="20 Areas/Python - 使用字典进行配置 (如 col_mapping).md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/python-使用字典进行配置-(如-col_mapping).html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #python/best-practice #python/data-processing #status/seed" data-link-path="20 Areas/Python - 使用字典进行配置 (如 col_mapping).md" style="--data-link-tags: #type/technique #tech/python #python/best-practice #python/data-processing #status/seed; --data-link-path: 20 Areas/Python - 使用字典进行配置 (如 col_mapping).md;">Python - 使用字典进行配置 (如 col_mapping)</a><br><a data-tooltip-position="top" aria-label="20 Areas/Pandas - 列之间的算术运算.md" data-href="20 Areas/Pandas - 列之间的算术运算.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/pandas-列之间的算术运算.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #tech/python/pandas #python/data-processing #status/seed" data-link-path="20 Areas/Pandas - 列之间的算术运算.md" style="--data-link-tags: #type/technique #tech/python #tech/python/pandas #python/data-processing #status/seed; --data-link-path: 20 Areas/Pandas - 列之间的算术运算.md;">Pandas - 列之间的算术运算</a><br><a data-tooltip-position="top" aria-label="20 Areas/Pandas - 创建和修改列.md" data-href="20 Areas/Pandas - 创建和修改列.md" href="https://vincent-s-obsidian-notes.vercel.app/20-areas/pandas-创建和修改列.html" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_self" rel="noopener nofollow" data-link-tags="#type/technique #tech/python #tech/python/pandas #python/data-processing #status/growing" data-link-path="20 Areas/Pandas - 创建和修改列.md" style="--data-link-tags: #type/technique #tech/python #tech/python/pandas #python/data-processing #status/growing; --data-link-path: 20 Areas/Pandas - 创建和修改列.md;">Pandas - 创建和修改列</a><br><br><br><br><br><br><br><br>BkBase 发布 📅 2025-06-05 (<a rel="noopener" target="_self" class="internal-link">Tasks</a>)<a class="tasks-edit" title="Edit task" href="https://vincent-s-obsidian-notes.vercel.app/about:blank#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 周五 6日 6月 (right-click for more options)"></a><br>任务管理分页 📅 2025-06-05<br>]]></description><link>https://vincent-s-obsidian-notes.vercel.app/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Vincent Ko]]></dc:creator><pubDate>Wed, 28 May 2025 06:36:34 GMT</pubDate></item></channel></rss>
